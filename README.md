@@ -1,1 +1,1 @@
-# .github
+# Seycove Coding Club
